@@ -2,9 +2,9 @@
 
 ## Course Index
 
-### Week 1: Pandemic and their Origins
-
 ---
+
+### Week 1: Pandemic and their Origins
 
 #### Virus Outbreak and Pandemic
 
@@ -56,8 +56,6 @@ Discussion and Poll
 3. [SARS-CoV-2 Variants and Variants arising all over the wrold](https://cov-lineages.org/resources/pangolin.html)
 
 ### Week 3: Epidemiology and Tracking in a pandemic
-
----
 
 #### Epidemiology and Surveillance
 
