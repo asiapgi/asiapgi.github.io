@@ -1,9 +1,7 @@
 # CZ GEN EPI - Background Theory for Genomic Epidemiology
 
-## The overlapping of time scale of pathogen evolution and trasmission
+## Modules
 
-### Introduction to genomic epidemiology; mutaiton and different lineage, pathogen diversity within host
+### The overlapping of time scale of pathogen evolution and trasmission
 
-1. First item
-2. Second item
-3. Third item
+- [Introduction to genomic epidemiology; mutaiton and different lineage, pathogen diversity within host](https://youtu.be/gRslOFxqbB0)
