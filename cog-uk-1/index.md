@@ -14,6 +14,12 @@
 
 #### Genetic Knowldege for Pandemic Action
 
-1. Genetic Knowldege for Pandemic Action
+1. [1918 Great Influenza Pandemic](https://youtu.be/3x1aLAw_xkY)
+2. [Introduction of DNA,RNA and PCR](https://youtu.be/fCd6B5HRaZ8)
+3. [Introduction of Genome Sequencing](https://youtu.be/qzusVw4Dp8w)
+4. [Tracking and reacting to outbreak with genomic knowledge (case scenario of Cholera in ZImbabwe)](https://www.nejm.org/doi/full/10.1056/NEJMc2004773)
+5. [Sequencing of SARS-CoV-2 (for e.g, Nextera and ARTIC protocols)](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-07283-6#Fig1)
 
-[Introduction to genomic epidemiology; mutaiton and different lineage, pathogen diversity within host](https://youtu.be/gRslOFxqbB0)
+#### Pandemic Knowledge Sharing
+
+Discussion and Poll
