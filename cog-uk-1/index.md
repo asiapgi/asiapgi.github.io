@@ -65,3 +65,5 @@ Discussion and Poll
 4. [Surveillance of viruses in a population in Argentina (video)](http://pais.qb.fcen.uba.ar/)
 5. [Genomic surveillance and its impact in Thailand (video)](https://coni.team/)
 6. Sequencing surveillane options
+
+---
