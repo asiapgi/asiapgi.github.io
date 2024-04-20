@@ -1,10 +1,8 @@
-# CZ GEN EPI - The Power of Genomics to understand the COVID 19 Pandemic
+# COG-Train UK - The Power of Genomics to understand the COVID 19 Pandemic
 
 ## Course Index
 
 ### Week 1: Pandemic and their Origins
-
----
 
 #### Virus Outbreak and Pandemic
 
@@ -29,8 +27,6 @@ Discussion and Poll
 ---
 
 ### Week 2: Viruses, Variants and Vaccines
-
----
 
 #### What came before?
 
@@ -60,8 +56,6 @@ Discussion and Poll
 ---
 
 ### Week 3: Epidemiology and Tracking in a pandemic
-
----
 
 #### Epidemiology and Surveillance
 
