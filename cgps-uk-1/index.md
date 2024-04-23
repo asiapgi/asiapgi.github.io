@@ -8,8 +8,6 @@
 2. [Genomic DNA Quantification using a Qubit Flurometer (by ThermoFisher)](https://www.protocols.io/view/c-sop-201-genomic-dna-quantification-using-a-qubit-n92ld98jxg5b/v1)
 3. [Genomic DNA Purity Measurement using Nanodrop Spectrophotometer (by ThermoFisher)](https://www.protocols.io/view/c-sop-202-genomic-dna-purity-measurement-using-a-n-14egnz6ymg5d/v1)
 
----
-
 ### DNA Library Preparation
 
 1. [DNA Library Preparation using NEBNextt Ultra Kit for Illumina by New England Biolabs (NEB)](https://www.protocols.io/view/c-sop-301-dna-library-preparation-using-the-nebnex-bp2l6b2ergqe/v1)
