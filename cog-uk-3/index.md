@@ -22,7 +22,7 @@
 
 #### Data Preparation
 
-1. Data Cleaning and quality control: [LINK 1](https://www.youtube.com/watch?v=GnWSXwQeJ_U) | [LINK 2](http://qualimap.conesalab.org/doc_html/analysis.html) | [LINK 3](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
+1. Data Cleaning and quality control: | [LINK 1](https://www.youtube.com/watch?v=GnWSXwQeJ_U) | [LINK 2](http://qualimap.conesalab.org/doc_html/analysis.html) | [LINK 3](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
 2. FastQC and MultiQC tools (phred quality score) [LINK 1](https://academic.oup.com/bioinformatics/article/32/19/3047/2196507?login=false) | [LINK 2](https://hbctraining.github.io/Intro-to-ChIPseq/lessons/02_QC_FASTQC.html)
 3. [Assembly of SARS-CoV2 genome and Sequence alignment](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002821)
 
