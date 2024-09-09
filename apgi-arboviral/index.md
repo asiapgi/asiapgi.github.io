@@ -37,12 +37,12 @@
 
 #### 1. RT
 
-SOP - Reverse Transcription (RT) for First-strand cDNA synthesis: [LINK](https://www.dropbox.com/scl/fo/jqlm02bc1ngz6md7jvyxb/AGp_ncIeNzVEKSfhMI-lQLk/Protocols/1_RT?dl=0&preview=SOP_Reverse+Transcription+using+SuperScript+III+Reverse+Transciptase_FINAL.pdf&rlkey=1x6xka1sq4t555rqkq49d2u0z&subfolder_nav_tracking=1)
+- SOP - Reverse Transcription (RT) for First-strand cDNA synthesis: [LINK](https://www.dropbox.com/scl/fo/jqlm02bc1ngz6md7jvyxb/AGp_ncIeNzVEKSfhMI-lQLk/Protocols/1_RT?dl=0&preview=SOP_Reverse+Transcription+using+SuperScript+III+Reverse+Transciptase_FINAL.pdf&rlkey=1x6xka1sq4t555rqkq49d2u0z&subfolder_nav_tracking=1)
 
 #### 2. PCR
 
-PCR amplification of Dengue and Zika virus
-cDNA: [LINK](https://www.dropbox.com/scl/fo/jqlm02bc1ngz6md7jvyxb/AKMN_adJCDt6-loi-BQIn5Y/Protocols/2_PCR?dl=0&preview=SOP_Dengue+virus+and+Zika+virus+cDNA+PCR+amplification_JW_020724_FINAL.pdf&rlkey=1x6xka1sq4t555rqkq49d2u0z&subfolder_nav_tracking=1)
+- PCR amplification of Dengue and Zika virus
+  cDNA: [LINK](https://www.dropbox.com/scl/fo/jqlm02bc1ngz6md7jvyxb/AKMN_adJCDt6-loi-BQIn5Y/Protocols/2_PCR?dl=0&preview=SOP_Dengue+virus+and+Zika+virus+cDNA+PCR+amplification_JW_020724_FINAL.pdf&rlkey=1x6xka1sq4t555rqkq49d2u0z&subfolder_nav_tracking=1)
 
 #### 3. Illumina Library prep
 
