@@ -6,7 +6,7 @@
 
 #### Day 1
 
-1. Infectious Diseasesin the Era of Climate Change and Planetary Health: [LINK](https://www.dropbox.com/scl/fo/jqlm02bc1ngz6md7jvyxb/AAM3FUYrH4PsGEmZvwXUyJs/Slides?dl=0&preview=Day1_03_GUINTO+Duke+NUS+July+3+2024.pdf&rlkey=1x6xka1sq4t555rqkq49d2u0z&subfolder_nav_tracking=1)
+1. Infectious Diseasesin the Era of Climate Change and Planetary Health: [LINK](https://asiapgi.github.io/apgi-arboviral/data/Slides/Day1_03_GUINTO%20Duke%20NUS%20July%203%202024.pdf)
 2. Introduction to Arboviruses & Arboviral
    Genomic Surveillance: [LINK](https://www.dropbox.com/scl/fo/jqlm02bc1ngz6md7jvyxb/AAM3FUYrH4PsGEmZvwXUyJs/Slides?dl=0&preview=Day1_04_Introduction_to_Arboviruses_Rukie_deAlwis.pdf&rlkey=1x6xka1sq4t555rqkq49d2u0z&subfolder_nav_tracking=1)
 3. Introduction to primer design concepts
