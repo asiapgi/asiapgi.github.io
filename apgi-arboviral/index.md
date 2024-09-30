@@ -8,15 +8,15 @@
 
 1. Infectious Diseasesin the Era of Climate Change and Planetary Health: [LINK](https://asiapgi.github.io/apgi-arboviral/data/Slides/Day1_03_GUINTO%20Duke%20NUS%20July%203%202024.pdf)
 2. Introduction to Arboviruses & Arboviral
-   Genomic Surveillance: [LINK](https://www.dropbox.com/scl/fo/jqlm02bc1ngz6md7jvyxb/AAM3FUYrH4PsGEmZvwXUyJs/Slides?dl=0&preview=Day1_04_Introduction_to_Arboviruses_Rukie_deAlwis.pdf&rlkey=1x6xka1sq4t555rqkq49d2u0z&subfolder_nav_tracking=1)
+   Genomic Surveillance: [LINK](https://asiapgi.github.io/apgi-arboviral/data/Slides/Day1_04_Introduction_to_Arboviruses_Rukie_deAlwis.pdf)
 3. Introduction to primer design concepts
-   and tools: [LINK](https://www.dropbox.com/scl/fo/jqlm02bc1ngz6md7jvyxb/AAM3FUYrH4PsGEmZvwXUyJs/Slides?dl=0&preview=Day1_05_Primer+designing_PIG+workshop_Jul2024_Final.pdf&rlkey=1x6xka1sq4t555rqkq49d2u0z&subfolder_nav_tracking=1)
-4. Mosquito surveillance in dengue control: [LINK](https://www.dropbox.com/scl/fo/jqlm02bc1ngz6md7jvyxb/AAM3FUYrH4PsGEmZvwXUyJs/Slides?dl=0&preview=Day1_06_Mosquito+surveillance_Milly_Choy.pdf&rlkey=1x6xka1sq4t555rqkq49d2u0z&subfolder_nav_tracking=1)
+   and tools: [LINK](https://asiapgi.github.io/apgi-arboviral/data/Slides/Day1_05_Primer%20designing_PIG%20workshop_Jul2024_Final.pdf)
+4. Mosquito surveillance in dengue control: [LINK](https://asiapgi.github.io/apgi-arboviral/data/Slides/Day1_06_Mosquito%20surveillance_Milly_Choy.pdf)
 
 #### Day 2
 
 1. Amplicon purification & quantification,
-   Illumina Library Preparation: [LINK](<https://www.dropbox.com/scl/fo/jqlm02bc1ngz6md7jvyxb/AAM3FUYrH4PsGEmZvwXUyJs/Slides?dl=0&preview=Day_2_Laboratory+(DLHW).pdf&rlkey=1x6xka1sq4t555rqkq49d2u0z&subfolder_nav_tracking=1>)
+   Illumina Library Preparation: [LINK](<https://asiapgi.github.io/apgi-arboviral/data/Slides/Day_2_Laboratory%20(DLHW).pdf>)
 
 #### Day 3
 
