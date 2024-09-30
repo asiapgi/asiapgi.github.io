@@ -21,15 +21,15 @@
 #### Day 3
 
 1. Laboratory workflow
-   Nanopore Library Preparation: [LINK](<https://www.dropbox.com/scl/fo/jqlm02bc1ngz6md7jvyxb/AAM3FUYrH4PsGEmZvwXUyJs/Slides?dl=0&preview=Day_3_Laboratory+(DLHW).pdf&rlkey=1x6xka1sq4t555rqkq49d2u0z&subfolder_nav_tracking=1>)
+   Nanopore Library Preparation: [LINK](<https://asiapgi.github.io/apgi-arboviral/data/Slides/Day_3_Laboratory%20(DLHW).pdf>)
 
 #### Day 4
 
 1. Introduction to
-   Pathogen Genomic Databases: [LINK](https://www.dropbox.com/scl/fo/jqlm02bc1ngz6md7jvyxb/AAM3FUYrH4PsGEmZvwXUyJs/Slides?dl=0&preview=Day4_Bioinformatics_Lecture2_AsiaPGI_Pathogen_Database_ZhuFengv2.pdf&rlkey=1x6xka1sq4t555rqkq49d2u0z&subfolder_nav_tracking=1)
-2. Introduction to Linux: [LINK](https://www.dropbox.com/scl/fo/jqlm02bc1ngz6md7jvyxb/AAM3FUYrH4PsGEmZvwXUyJs/Slides?dl=0&preview=Day4_Bioinformatics_Lecture3_LinuxBasics_ZhuFeng.pdf&rlkey=1x6xka1sq4t555rqkq49d2u0z&subfolder_nav_tracking=1)
-3. Cost and Sustainability of Pathogen Genomics: [LINK](https://www.dropbox.com/scl/fo/jqlm02bc1ngz6md7jvyxb/AAM3FUYrH4PsGEmZvwXUyJs/Slides?dl=0&preview=Cost+and+sustainbility+05July2024v2.pdf&rlkey=1x6xka1sq4t555rqkq49d2u0z&subfolder_nav_tracking=1)
-4. Costing exercise - arboviral NGS: [LINK](https://www.dropbox.com/scl/fo/jqlm02bc1ngz6md7jvyxb/AAM3FUYrH4PsGEmZvwXUyJs/Slides?dl=0&preview=Asia+PGI+arboviral+NGS+workshop+-+costing+exercise+060724v2.pdf&rlkey=1x6xka1sq4t555rqkq49d2u0z&subfolder_nav_tracking=1)
+   Pathogen Genomic Databases: [LINK](https://asiapgi.github.io/apgi-arboviral/data/Slides/Day4_Bioinformatics_Lecture2_AsiaPGI_Pathogen_Database_ZhuFengv2.pdf)
+2. Introduction to Linux: [LINK](https://asiapgi.github.io/apgi-arboviral/data/Slides/Day4_Bioinformatics_Lecture3_LinuxBasics_ZhuFeng.pdf)
+3. Cost and Sustainability of Pathogen Genomics: [LINK](https://asiapgi.github.io/apgi-arboviral/data/Slides/Cost%20and%20sustainbility%2005July2024v2.pdf)
+4. Costing exercise - arboviral NGS: [LINK](https://asiapgi.github.io/apgi-arboviral/data/Slides/Asia%20PGI%20arboviral%20NGS%20workshop%20-%20costing%20exercise%20060724v2.pdf)
 
 ---
 
@@ -37,36 +37,36 @@
 
 #### 1. RT
 
-- SOP - Reverse Transcription (RT) for First-strand cDNA synthesis: [LINK](https://www.dropbox.com/scl/fo/jqlm02bc1ngz6md7jvyxb/AGp_ncIeNzVEKSfhMI-lQLk/Protocols/1_RT?dl=0&preview=SOP_Reverse+Transcription+using+SuperScript+III+Reverse+Transciptase_FINAL.pdf&rlkey=1x6xka1sq4t555rqkq49d2u0z&subfolder_nav_tracking=1)
+- SOP - Reverse Transcription (RT) for First-strand cDNA synthesis: [LINK](https://asiapgi.github.io/apgi-arboviral/data/Protocols/1_RT/SOP_Reverse%20Transcription%20using%20SuperScript%20III%20Reverse%20Transciptase_FINAL.pdf)
 
 #### 2. PCR
 
 - PCR amplification of Dengue and Zika virus
-  cDNA: [LINK](https://www.dropbox.com/scl/fo/jqlm02bc1ngz6md7jvyxb/AKMN_adJCDt6-loi-BQIn5Y/Protocols/2_PCR?dl=0&preview=SOP_Dengue+virus+and+Zika+virus+cDNA+PCR+amplification_JW_020724_FINAL.pdf&rlkey=1x6xka1sq4t555rqkq49d2u0z&subfolder_nav_tracking=1)
+  cDNA: [LINK](https://asiapgi.github.io/apgi-arboviral/data/Protocols/2_PCR/SOP_Dengue%20virus%20and%20Zika%20virus%20cDNA%20PCR%20amplification_JW_020724_FINAL.pdf)
 
 #### 3. Illumina Library prep
 
-- SOP - Illumina Library Preparation using the Nextera XT DNA Library Prep Kit [LINK](https://www.dropbox.com/scl/fo/jqlm02bc1ngz6md7jvyxb/AGfya2gYgzhEYaKA7Cm9qtg/Protocols/3_Illumina_Library_prep?dl=0&preview=SOP_Illumina+Library+Preperation_FINAL.pdf&rlkey=1x6xka1sq4t555rqkq49d2u0z&subfolder_nav_tracking=1)
-- Vendor Protocol: Nextera XT DNA Library Prep:[LINK](https://www.dropbox.com/scl/fo/jqlm02bc1ngz6md7jvyxb/ALU8V-GILpAHYbYl3fE9JaM/Protocols/3_Illumina_Library_prep/Vendor_protocol?dl=0&preview=Nextera+XT+DNA+Library+Prep.pdf&rlkey=1x6xka1sq4t555rqkq49d2u0z&subfolder_nav_tracking=1)
+- SOP - Illumina Library Preparation using the Nextera XT DNA Library Prep Kit [LINK](https://asiapgi.github.io/apgi-arboviral/data/Protocols/3_Illumina_Library_prep/SOP_Illumina%20Library%20Preperation_FINAL.pdf)
+- Vendor Protocol: Nextera XT DNA Library Prep:[LINK](https://asiapgi.github.io/apgi-arboviral/data/Protocols/3_Illumina_Library_prep/Vendor_protocol/Nextera%20XT%20DNA%20Library%20Prep.pdf)
 
 #### 4. ONT Library prep
 
-- Ligation sequencing amplicons - Native Barcoding Kit 24 V14: [LINK](<https://www.dropbox.com/scl/fo/jqlm02bc1ngz6md7jvyxb/AGsepWmUksc-pMho8E4Dlys/Protocols/4_ONT_Library_prep?dl=0&preview=Ligation+sequencing+amplicons+-+Native+Barcoding+Kit+24+V14+(SQK-NBD114.24)-minion_condensed+version.pdf&rlkey=1x6xka1sq4t555rqkq49d2u0z&subfolder_nav_tracking=1>)
-- SOP - Oxford Nanopore Library Preparation, Flow cell preparation and sequencing: [LINK](https://www.dropbox.com/scl/fo/jqlm02bc1ngz6md7jvyxb/AGsepWmUksc-pMho8E4Dlys/Protocols/4_ONT_Library_prep?dl=0&preview=SOP_Oxford+Nanopore+Library+Preparation%2C+Flow+cell+preparation+and+sequencing_FINAL.pdf&rlkey=1x6xka1sq4t555rqkq49d2u0z&subfolder_nav_tracking=1)
+- Ligation sequencing amplicons - Native Barcoding Kit 24 V14: [LINK](<https://asiapgi.github.io/apgi-arboviral/data/Protocols/4_ONT_Library_prep/Ligation%20sequencing%20amplicons%20-%20Native%20Barcoding%20Kit%2024%20V14%20(SQK-NBD114.24)-minion_condensed%20version.pdf>)
+- SOP - Oxford Nanopore Library Preparation, Flow cell preparation and sequencing: [LINK](https://asiapgi.github.io/apgi-arboviral/data/Protocols/4_ONT_Library_prep/SOP_Oxford%20Nanopore%20Library%20Preparation,%20Flow%20cell%20preparation%20and%20sequencing_FINAL.pdf)
 
 #### 5. Quantification
 
-- SOP - dsDNA quantification using Qubit 1X dsDNA HS: [LINK](https://www.dropbox.com/scl/fo/jqlm02bc1ngz6md7jvyxb/ACM1jkcVDpr0kNX0F7hL15o/Protocols/5_Quantification?dl=0&preview=SOP_Qubit_quantification_FINAL.pdf&rlkey=1x6xka1sq4t555rqkq49d2u0z&subfolder_nav_tracking=1)
+- SOP - dsDNA quantification using Qubit 1X dsDNA HS: [LINK](https://asiapgi.github.io/apgi-arboviral/data/Protocols/5_Quantification/SOP_Qubit_quantification_FINAL.pdf)
 
 #### 6. MiSeq QC
 
-- Bioanalyzer - SOP - DNA analysis using Agilent High Sensitivity DNA Kit for 2100 Bioanalyzer Systems: [LINK](https://www.dropbox.com/scl/fo/jqlm02bc1ngz6md7jvyxb/ADk6zIDcnZoiA8sIEobSzSg/Protocols/6_MiSeq%20QC/Bioanalyzer?dl=0&preview=SOP_Agilent+Bioanalyzer+DNA+HS+Assay+kit_JW_FINAL.pdf&rlkey=1x6xka1sq4t555rqkq49d2u0z&subfolder_nav_tracking=1)
-- qPCR - KAPA Lib Quantification kit Illumina Platform: [LINK](https://www.dropbox.com/scl/fo/jqlm02bc1ngz6md7jvyxb/AE-3jFPH-flqU0i2cvhUaNE/Protocols/6_MiSeq%20QC/qPCR?dl=0&preview=KAPA+Lib+Quantification+kit+Illumina+Platform.pdf&rlkey=1x6xka1sq4t555rqkq49d2u0z&subfolder_nav_tracking=1)
-- qPCR - KAPA Library Quant Data Analysis Template: [LINK](https://www.dropbox.com/scl/fo/jqlm02bc1ngz6md7jvyxb/AE-3jFPH-flqU0i2cvhUaNE/Protocols/6_MiSeq%20QC/qPCR?dl=0&preview=KAPA-Library-Quant_Data-Analysis-Template_ILM_v4-1.xls&rlkey=1x6xka1sq4t555rqkq49d2u0z&subfolder_nav_tracking=1)
-- qPCR - KAPA Library Quantification Kit for Illumina Platform: [LINK](https://www.dropbox.com/scl/fo/jqlm02bc1ngz6md7jvyxb/AE-3jFPH-flqU0i2cvhUaNE/Protocols/6_MiSeq%20QC/qPCR?dl=0&preview=SOP_qPCR+using+KAPA+Library+Quantification+Kit+for+Illumina+Platform_070724_1.pdf&rlkey=1x6xka1sq4t555rqkq49d2u0z&subfolder_nav_tracking=1)
+- Bioanalyzer - SOP - DNA analysis using Agilent High Sensitivity DNA Kit for 2100 Bioanalyzer Systems: [LINK](https://asiapgi.github.io/apgi-arboviral/data/Protocols/6_MiSeq%20QC/Bioanalyzer/SOP_Agilent%20Bioanalyzer%20DNA%20HS%20Assay%20kit_JW_FINAL.pdf)
+- qPCR - KAPA Lib Quantification kit Illumina Platform: [LINK](https://asiapgi.github.io/apgi-arboviral/data/Protocols/6_MiSeq%20QC/qPCR/KAPA%20Lib%20Quantification%20kit%20Illumina%20Platform.pdf)
+- qPCR - KAPA Library Quant Data Analysis Template: [LINK](https://asiapgi.github.io/apgi-arboviral/data/Protocols/6_MiSeq%20QC/qPCR/KAPA-Library-Quant_Data-Analysis-Template_ILM_v4-1.xls)
+- qPCR - KAPA Library Quantification Kit for Illumina Platform: [LINK](https://asiapgi.github.io/apgi-arboviral/data/Protocols/6_MiSeq%20QC/qPCR/SOP_qPCR%20using%20KAPA%20Library%20Quantification%20Kit%20for%20Illumina%20Platform_070724_1.pdf)
 
 #### 7. MiSeq prep and loading
 
-- Illumina MiSeq Preparation and Loading of Samples: [LINK](https://www.dropbox.com/scl/fo/jqlm02bc1ngz6md7jvyxb/ANy_5PajO5On8Z6AX01WGUU/Protocols/7_MiSeq_Prep%20and%20loading?dl=0&preview=SOP_Illumina+MiSeq+Preparation+and+Loading+of+Samples_FINAL.pdf&rlkey=1x6xka1sq4t555rqkq49d2u0z&subfolder_nav_tracking=1)
+- Illumina MiSeq Preparation and Loading of Samples: [LINK](https://asiapgi.github.io/apgi-arboviral/data/Protocols/7_MiSeq_Prep%20and%20loading/SOP_Illumina%20MiSeq%20Preparation%20and%20Loading%20of%20Samples_FINAL.pdf)
 
 ---
